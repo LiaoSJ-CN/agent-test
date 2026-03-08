@@ -1,7 +1,7 @@
 """
 输入半径计算圆的周长和面积
 
-Version: 1.1
+Version: 1.0
 Author: LiaoSJ-CN
 """
 import math
