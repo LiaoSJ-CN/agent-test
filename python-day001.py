@@ -5,4 +5,4 @@ Version: 1.0
 Author: LiaoSJ-CN
 """
 # print('hello, world')
-print("你好，世界！")
+print("hello, world")
