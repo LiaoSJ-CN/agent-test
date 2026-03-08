@@ -62,4 +62,3 @@ print(float(a5))         # str类型的'123.45'转成float，输出123.45
 print(bool(a6))          # str类型的'hello, world'转成bool，输出True
 print(int(a7))           # bool类型的True转成int，输出1
 print(chr(a1))           # int类型的100转成str，输出'd'
-print(ord('a4'))         # str类型的'd'转成int，输出100
