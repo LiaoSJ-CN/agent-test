@@ -44,7 +44,7 @@ print(type(f))  # <class 'bool'>
 变量的类型转换操作
 
 Version: 1.0
-Author: 骆昊
+Author: LiaoSJ-CN
 """
 a1 = 100
 a2 = 123.45
